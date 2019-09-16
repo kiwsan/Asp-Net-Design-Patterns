@@ -8,3 +8,5 @@ build/
 *.sln.cache
 _ReSharper.*/
 *.user
+/.vs/Agathas.Storefront/v15/Server/sqlite3
+/.vs
